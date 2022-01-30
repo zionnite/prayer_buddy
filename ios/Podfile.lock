@@ -1,0 +1,97 @@
+PODS:
+  - agora_rtc_engine (4.0.7):
+    - AgoraRtcEngine_iOS (= 3.5.0.3)
+    - Flutter
+  - agora_rtm (1.0.1):
+    - AgoraRtm_iOS (= 1.4.8)
+    - Flutter
+  - AgoraRtcEngine_iOS (3.5.0.3)
+  - AgoraRtm_iOS (1.4.8)
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - Flutter (1.0.0)
+  - flutter_callkit_incoming (0.0.1):
+    - Flutter
+  - flutter_ringtone_player (0.0.1):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - Reachability (3.2)
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - wakelock (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - agora_rtc_engine (from `.symlinks/plugins/agora_rtc_engine/ios`)
+  - agora_rtm (from `.symlinks/plugins/agora_rtm/ios`)
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_callkit_incoming (from `.symlinks/plugins/flutter_callkit_incoming/ios`)
+  - flutter_ringtone_player (from `.symlinks/plugins/flutter_ringtone_player/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - shared_preferences_ios (from `.symlinks/plugins/shared_preferences_ios/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AgoraRtcEngine_iOS
+    - AgoraRtm_iOS
+    - FMDB
+    - Reachability
+
+EXTERNAL SOURCES:
+  agora_rtc_engine:
+    :path: ".symlinks/plugins/agora_rtc_engine/ios"
+  agora_rtm:
+    :path: ".symlinks/plugins/agora_rtm/ios"
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  Flutter:
+    :path: Flutter
+  flutter_callkit_incoming:
+    :path: ".symlinks/plugins/flutter_callkit_incoming/ios"
+  flutter_ringtone_player:
+    :path: ".symlinks/plugins/flutter_ringtone_player/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  shared_preferences_ios:
+    :path: ".symlinks/plugins/shared_preferences_ios/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+
+SPEC CHECKSUMS:
+  agora_rtc_engine: 0820b82b3a71a8fcaf8b27c000622e671349f0ba
+  agora_rtm: 9cd2f941f6b006f262b8871863a08f228ee4cf97
+  AgoraRtcEngine_iOS: ff8e085161ea98c917173783a899882f884dd9ef
+  AgoraRtm_iOS: 382a54763803dad098d3b31a2608ccd62972e00b
+  connectivity: c4130b2985d4ef6fd26f9702e886bd5260681467
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_callkit_incoming: d577a8ddc61393286a316f795f721590c880da60
+  flutter_ringtone_player: 15eba85187230b87b2512f0e1b92225618bc03e7
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  path_provider_ios: 7d7ce634493af4477d156294792024ec3485acd5
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  shared_preferences_ios: aef470a42dc4675a1cdd50e3158b42e3d1232b32
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
+
+PODFILE CHECKSUM: b58b28a7f4cab109a0f035e6ed0578762ccfaa6c
+
+COCOAPODS: 1.11.2
